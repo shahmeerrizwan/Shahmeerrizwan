@@ -3,7 +3,9 @@
 </p> 
 
 
-  <h1 align="center"> Hi 👋, I'm Muhammad Shahmeer Rizwan</h1>
+  <h1 align="center"> ASSALAM O ALAIKUM 👋 </br>
+    </br>
+               I'm Muhammad Shahmeer Rizwan</h1>
   
 
 
