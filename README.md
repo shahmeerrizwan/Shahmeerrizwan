@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8TIunN2prGutzVAnIdnO7mDqgqGVrOqn7sw&usqp=CAU" alt="Sublime's custom image"/>
+  <img src="dp-removebg-preview.png" alt="Sublime's custom image"/>
 </p> 
 
 
