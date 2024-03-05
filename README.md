@@ -15,7 +15,6 @@
 
 - ⚡ Fun fact **Friendly & Funny**
 
-- 👀 Looking For Interenship
 
 
 
