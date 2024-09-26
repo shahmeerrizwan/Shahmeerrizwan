@@ -9,7 +9,7 @@
   
 
 
-<h3 align="center">REACT JS DEVELOPER .</h3> </p>
+<h3 align="center">FULL STACK DEVELOPER .</h3> </p>
 <br><br><br>
 - 📫 How to reach me **shahmeerrizwan921@gmail.com**
 
