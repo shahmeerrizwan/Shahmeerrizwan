@@ -1,7 +1,6 @@
 </br>
-</br>
 <h1 align="center">
-               I'm Muhammad Shahmeer Rizwan</h1>
+              Hi, I'm Muhammad Shahmeer Rizwan 👋</h1>
 <h3 align="center">MERN STACK DEVELOPER | FULL-STACK DEVELOPER </h3>
 </br>
 
