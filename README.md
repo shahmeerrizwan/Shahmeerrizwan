@@ -1,14 +1,7 @@
-<p align="center">
-  <img src="dp-removebg-preview.png" alt="Profile Image"/>
-</p> 
 
-<h1 align="center"> ASSALAM O ALAIKUM 👋 </br>
-    </br>
+<h1 align="center">
                I'm Muhammad Shahmeer Rizwan</h1>
-
 <h3 align="center">MERN STACK DEVELOPER | FULL-STACK DEVELOPER </h3>
-
-</br>
 </br>
 
 ### 📝 About Me  
@@ -80,9 +73,10 @@ Contact me today to discuss your project further. I’m available and ready to s
 </br>
 
 ## 🌍 Connect with me:
+
 <p align="left">
 <a href="https://www.facebook.com/muhammadshahmeerrizwan" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"  />
 </a>
 <a href="https://instagram.com/_i_am_shahmeer" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
@@ -97,5 +91,5 @@ Contact me today to discuss your project further. I’m available and ready to s
 
 
 ### 📫 How to reach me:
-- 📧 Email: **shahmeerrizwan921@gmail.com**  
-- 🌎 **[Portfolio Website](https://mshah-portfolio.web.app/)**
+- 📧 **shahmeerrizwan921@gmail.com**  
+- 🌎 **[Visit my website](https://mshah-portfolio.web.app/)**
