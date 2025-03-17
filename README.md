@@ -6,9 +6,10 @@
 
 ### 📝 About Me  
 I am **Muhammad Shahmeer Rizwan**, a **MERN Stack Developer** based in **Karachi, Pakistan**, with **2+ years of experience** in developing websites for small and medium-sized businesses. I specialize in **ReactJS, NextJS & ReactNative**, along with various frontend and backend technologies.  
-</br>
 
-💡 I focus on **creative problem-solving, agility, and client satisfaction**, ensuring high-quality work with clean and efficient code.  
+Collaborating with businesses across North America, Europe, Asia, and beyond, I specialize in building innovative software solutions that are secure, efficient, and designed for growth.
+
+I create solutions that enhance efficiency and drive business success. Whether launching a startup MVP or optimizing enterprise applications, I deliver precision and innovation.
 
 </br>
 
