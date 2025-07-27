@@ -6,11 +6,8 @@ I develop and maintain custom web applications, SaaS platforms, dashboards, CRMs
 
 I provide expert support, bug fixes, and performance optimization for React.js, Next.js, and Node.js projects. Whether integrating custom AI APIs, third-party services, or enhancing your SEO-driven SaaS or business apps, I deliver clean, maintainable code on time.
 
----
-
-### 🔧 My Expertise
-
-#### 🌐 Frontend Development
+#### 🔧 My Expertise
+🌐 Frontend Development
 - React.js & Next.js — Building SEO-friendly SPAs, PWAs, SSR, and CSR applications  
 - HTML5, CSS3, JavaScript, TypeScript — Crafting pixel-perfect, responsive designs  
 - UI Libraries: Tailwind CSS, Bootstrap, Material UI, Daisy UI  
@@ -19,17 +16,11 @@ I provide expert support, bug fixes, and performance optimization for React.js, 
 - Node.js & Express.js — Developing scalable and secure server-side solutions  
 - RESTful APIs — Designing robust and seamless API integrations  
 - Firebase & Supabase — Real-time backend, authentication, and database management  
-
-#### 💾 Database Management
 - MongoDB, Firebase, MySQL, PostgreSQL — Efficient and scalable data handling  
-
-#### 🔐 Security & Authentication
 - JWT and Firebase Authentication — Implementing secure login and role-based access  
 
 #### 📱 Mobile App Development
 - React Native — Building high-quality cross-platform mobile apps for iOS and Android with seamless web integration  
-
----
 
 ### What I Offer
 - Full Stack Web & Mobile Development tailored to your business needs  
@@ -37,22 +28,16 @@ I provide expert support, bug fixes, and performance optimization for React.js, 
 - UI/UX design collaboration using Tailwind CSS & Figma  
 - State management using Redux, Context API, and more  
 
----
-
 🚀 **Passionate about building scalable web applications that deliver exceptional user experiences.**
 
----
-
-🖥️ **Let’s Build Your Success Together!**
+<br/>
+🖥️ Let’s Build Your Success Together!
 
 Whether you need a brand new website or improvements to an existing app, I’m ready to help you build tailored, modern solutions that meet your goals. With over two years of experience, I’m committed to delivering outstanding results every time.
 
----
-
 ### 📧 Get in Touch  
-Contact me today to discuss your project—I’m available and ready to start immediately!
+Contact me today to discuss your project—I’m available and ready to start immediately! Let’s bring your next project to life with modern technologies and smart AI-powered features!
 
----
 
 ## 🌍 Connect with me:  
 
@@ -67,8 +52,6 @@ Contact me today to discuss your project—I’m available and ready to start im
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />  
 </a>  
 </p>  
-
----
 
 ### 📫 How to reach me:  
 - 📧 **shahmeerrizwan921@gmail.com**  
