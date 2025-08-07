@@ -54,5 +54,5 @@ Contact me today to discuss your project—I’m available and ready to start im
 </p>  
 
 ### 📫 How to reach me:  
-- 📧 **shahmeerrizwan921@gmail.com**  
+- 📧 **muhammad.shahmeer@saylaniwelfare.com**  
 - 🌐 **[Visit my website](https://msrtechlimited.web.app/)**  
