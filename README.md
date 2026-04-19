@@ -55,4 +55,4 @@ Contact me today to discuss your project—I’m available and ready to start im
 
 ### 📫 How to reach me:  
 - 📧 **hello@shahmeerrizwan.com**  
-- 🌐 **[Visit my website](https://msrtechlimited.web.app/)**  
+- 🌐 **[Visit my website](https://shahmeerrizwan.com)**  
