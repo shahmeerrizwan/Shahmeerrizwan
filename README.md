@@ -45,7 +45,7 @@ Contact me today to discuss your project—I’m available and ready to start im
 <a href="https://www.facebook.com/muhammadshahmeerrizwan" target="_blank">  
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />  
 </a>  
-<a href="https://instagram.com/_i_am_shahmeer" target="_blank">  
+<a href="https://instagram.com/muhammad_shahmeer_rizwan" target="_blank">  
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />  
 </a>  
 <a href="https://www.linkedin.com/in/muhammadshahmeerrizwan/" target="_blank">  
@@ -54,5 +54,5 @@ Contact me today to discuss your project—I’m available and ready to start im
 </p>  
 
 ### 📫 How to reach me:  
-- 📧 **msr.muhammadshahmeer@gmail.com**  
+- 📧 **hello@shahmeerrizwan.com**  
 - 🌐 **[Visit my website](https://msrtechlimited.web.app/)**  
