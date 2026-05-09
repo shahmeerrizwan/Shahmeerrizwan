@@ -1,58 +1,63 @@
-Hello everyone! I’m **Muhammad Shahmeer Rizwan**, a skilled MERN Stack and Full-Stack Developer with extensive experience building fast, scalable, and SEO-optimized web and cross-platform mobile applications.
+<div align="center">
 
-Collaborating with clients across North America, Europe, Asia, and beyond, I specialize in delivering innovative software solutions that are secure, efficient, and designed to support your business growth.
+# Muhammad Shahmeer Rizwan
 
-I develop and maintain custom web applications, SaaS platforms, dashboards, CRMs, LMS, and admin panels. I also create e-commerce websites with seamless and secure payment integrations. Additionally, I build real-time interactive interfaces using Socket.io and implement advanced API integrations.
+Full Stack Web & Mobile App Developer
 
-I provide expert support, bug fixes, and performance optimization for React.js, Next.js, and Node.js projects. Whether integrating custom AI APIs, third-party services, or enhancing your SEO-driven SaaS or business apps, I deliver clean, maintainable code on time.
+[![Email](https://img.shields.io/badge/hello@shahmeerrizwan.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@shahmeerrizwan.com)
+[![Website](https://img.shields.io/badge/shahmeerrizwan.com-000000?style=flat-square&logo=safari&logoColor=white)](https://shahmeerrizwan.com)
 
-#### 🔧 My Expertise
-🌐 Frontend Development
-- React.js & Next.js — Building SEO-friendly SPAs, PWAs, SSR, and CSR applications  
-- HTML5, CSS3, JavaScript, TypeScript — Crafting pixel-perfect, responsive designs  
-- UI Libraries: Tailwind CSS, Bootstrap, Material UI, Daisy UI  
+</div>
 
-#### ⚙️ Backend Development
-- Node.js & Express.js — Developing scalable and secure server-side solutions  
-- RESTful APIs — Designing robust and seamless API integrations  
-- Firebase & Supabase — Real-time backend, authentication, and database management  
-- MongoDB, Firebase, MySQL, PostgreSQL — Efficient and scalable data handling  
-- JWT and Firebase Authentication — Implementing secure login and role-based access  
+My platforms serve **800,000+ users across 100+ countries**. I build production systems — not demos.
 
-#### 📱 Mobile App Development
-- React Native — Building high-quality cross-platform mobile apps for iOS and Android with seamless web integration  
+## Key Projects
 
-### What I Offer
-- Full Stack Web & Mobile Development tailored to your business needs  
-- Agile development process with on-time delivery  
-- UI/UX design collaboration using Tailwind CSS & Figma  
-- State management using Redux, Context API, and more  
+**NEDIAN-NA — NED International Alumni Network** · Live  
+`React.js • TypeScript • Tailwind CSS`
+- 1,000+ active alumni members · 2+ annual international conventions
+- Digital hub spanning 15+ regional chapters across 5+ countries
 
-🚀 **Passionate about building scalable web applications that deliver exceptional user experiences.**
+**GetContentAI — AI Content Creation Platform** · Live  
+`Next.js • React • Node.js • OpenAI API • DALL-E • Stripe`
+- 10,000+ business clients · 2.5× engagement lift · 15+ hours saved per user per week
+- Transforms a single brief into optimized posts for Instagram, Twitter, LinkedIn, Facebook, and TikTok
 
-<br/>
-🖥️ Let’s Build Your Success Together!
+**Big League Construction Supply — Logistics Platform** · Live  
+`Node.js • Express.js • SQL • Amazon S3 • Google Maps API`
+- Just-in-time logistics backend supporting construction teams across Orlando, FL
+- Modular REST APIs, role-based access control, quote workflows, route-aware dispatch, and S3 field documentation
 
-Whether you need a brand new website or improvements to an existing app, I’m ready to help you build tailored, modern solutions that meet your goals. With over two years of experience, I’m committed to delivering outstanding results every time.
+**WashApp — On-Demand Laundry Platform** · Live  
+`React Native • Node.js • Express • MongoDB • Firebase • Google Maps API`
+- 45,000+ orders processed island-wide across Sri Lanka · 4.9/5 user rating
+- Real-time order tracking, dynamic pricing, route optimization, push notifications, and commercial client module
 
-### 📧 Get in Touch  
-Contact me today to discuss your project—I’m available and ready to start immediately! Let’s bring your next project to life with modern technologies and smart AI-powered features!
+**Seerat Ki Dunya — Islamic Education Platform** · Live  
+`Next.js • React.js • Tailwind CSS • Node.js • MongoDB`
+- 10,000+ downloads · 100+ countries · 4.8/5 rating · 500+ authenticated articles
+- Covers the Prophet's life through Shamail, Seerah Timeline, Role Model, and structured Courses
 
+**Skorboard — Real-Time Sports Platform** · Live  
+`MERN Stack • Socket.io • Redux Toolkit`
+- Live score coverage for MLB, NHL, NFL, NBA, NCAAF, and CBK via WebSocket
+- Team/player stats, user personalization (favorites, themes, time zones), and secure multi-step authentication
 
-## 🌍 Connect with me:  
+**Offline POS System — Retail & Wholesale**  
+`React.js • React Native • SQLite • Thermal Bluetooth Printing`
+- Deployed to 5 retail and wholesale clients with zero internet dependency
+- Receipt generation, thermal Bluetooth printing, real-time dashboards, and pagination supporting millions of records
 
-<p align="left">  
-<a href="https://www.facebook.com/muhammadshahmeerrizwan" target="_blank">  
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />  
-</a>  
-<a href="https://instagram.com/muhammad_shahmeer_rizwan" target="_blank">  
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />  
-</a>  
-<a href="https://www.linkedin.com/in/muhammadshahmeerrizwan/" target="_blank">  
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />  
-</a>  
-</p>  
+## Tech Stack
 
-### 📫 How to reach me:  
-- 📧 **hello@shahmeerrizwan.com**  
-- 🌐 **[Visit my website](https://shahmeerrizwan.com)**  
+**Frontend** — React.js · Next.js · TypeScript · Tailwind CSS · Redux.js · HTML5 · CSS3 · Bootstrap  
+**Mobile** — React Native · iOS & Android · Cross-Platform Development  
+**Backend** — Node.js · Express.js · MongoDB · REST APIs · Firebase · Socket.io  
+**Cloud & Tools** — AWS · Amazon S3 · Google Maps API · Git · GitHub
+
+## Let's Work Together
+
+I respond within hours, deliver on time, and stay involved when challenges arise.
+
+[![Email](https://img.shields.io/badge/hello@shahmeerrizwan.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@shahmeerrizwan.com)
+[![Website](https://img.shields.io/badge/shahmeerrizwan.com-000000?style=flat-square&logo=safari&logoColor=white)](https://shahmeerrizwan.com)
