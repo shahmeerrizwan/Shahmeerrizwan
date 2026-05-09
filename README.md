@@ -13,32 +13,32 @@ My platforms serve **800,000+ users across 100+ countries**. I build production 
 
 ## Key Projects
 
-**NEDIAN-NA — NED International Alumni Network** · Live  
+**[NEDIAN-NA — NED International Alumni Network](https://www.nedian-na.org/)** · Live  
 `React.js • TypeScript • Tailwind CSS`
 - 1,000+ active alumni members · 2+ annual international conventions
 - Digital hub spanning 15+ regional chapters across 5+ countries
 
-**GetContentAI — AI Content Creation Platform** · Live  
+**[GetContentAI — AI Content Creation Platform](https://www.getcontentai.com/)** · Live  
 `Next.js • React • Node.js • OpenAI API • DALL-E • Stripe`
 - 10,000+ business clients · 2.5× engagement lift · 15+ hours saved per user per week
 - Transforms a single brief into optimized posts for Instagram, Twitter, LinkedIn, Facebook, and TikTok
 
-**Big League Construction Supply — Logistics Platform** · Live  
+**[Big League Construction Supply — Logistics Platform](https://bigleaguecs.com/)** · Live  
 `Node.js • Express.js • SQL • Amazon S3 • Google Maps API`
 - Just-in-time logistics backend supporting construction teams across Orlando, FL
 - Modular REST APIs, role-based access control, quote workflows, route-aware dispatch, and S3 field documentation
 
-**WashApp — On-Demand Laundry Platform** · Live  
+**[WashApp — On-Demand Laundry Platform](https://www.washapp.lk/)** · Live  
 `React Native • Node.js • Express • MongoDB • Firebase • Google Maps API`
 - 45,000+ orders processed island-wide across Sri Lanka · 4.9/5 user rating
 - Real-time order tracking, dynamic pricing, route optimization, push notifications, and commercial client module
 
-**Seerat Ki Dunya — Islamic Education Platform** · Live  
+**[Seerat Ki Dunya — Islamic Education Platform](https://www.seeratkidunya.com/en)** · Live  
 `Next.js • React.js • Tailwind CSS • Node.js • MongoDB`
 - 10,000+ downloads · 100+ countries · 4.8/5 rating · 500+ authenticated articles
 - Covers the Prophet's life through Shamail, Seerah Timeline, Role Model, and structured Courses
 
-**Skorboard — Real-Time Sports Platform** · Live  
+**[Skorboard — Real-Time Sports Platform](https://www.fantronics.com/)** · Live  
 `MERN Stack • Socket.io • Redux Toolkit`
 - Live score coverage for MLB, NHL, NFL, NBA, NCAAF, and CBK via WebSocket
 - Team/player stats, user personalization (favorites, themes, time zones), and secure multi-step authentication
